@@ -1,0 +1,3 @@
+execute as @e[tag=reunion.custom_block.charging_table,tag=!reunion.custom_block.placed] at @s run function reunion:custom_blocks/charging_table/place
+execute as @e[tag=reunion.custom_block.charging_table,tag=reunion.custom_block.placed] at @s unless block ~ ~ ~ smooth_stone_slab[type=bottom] run function reunion:custom_blocks/charging_table/remove
+# execute at @e[tag=reunion.custom_block.charging_table] align xyz positioned ~.5 ~1.5 ~.5 if block ~ ~ ~ copper_block run function reunion:custom_blocks/charging_table/use
