@@ -1,0 +1,6 @@
+function reunion:custom_blocks/altar/give
+function reunion:custom_blocks/gravity_scrubber/give
+function reunion:custom_blocks/jewel_bench/give
+function reunion:custom_blocks/monster_nest/give
+function reunion:custom_blocks/redstone_bench/give
+function reunion:custom_blocks/stone_crafting_table/give

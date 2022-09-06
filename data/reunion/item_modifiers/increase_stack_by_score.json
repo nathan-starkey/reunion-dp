@@ -1,0 +1,12 @@
+{
+  "function": "set_count",
+  "count": {
+    "type": "score"
+    "target": {
+      "type": "fixed",
+      "name": "count",
+      "score": "reunion.temp"
+    }
+  },
+  "add": true
+}

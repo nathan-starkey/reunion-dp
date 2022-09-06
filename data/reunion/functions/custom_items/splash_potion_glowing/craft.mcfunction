@@ -1,0 +1,1 @@
+item replace block ~ ~ ~ container.4 with splash_potion{reunion.type:custom_item.splash_potion_glowing,Potion:water,CustomPotionColor:65535,CustomPotionEffects:[{Id:24,Amplifier:0,ShowParticles:0b,Duration:200}],display:{Name:'{"text":"Splash Potion of Glowing","italic":false}'}}

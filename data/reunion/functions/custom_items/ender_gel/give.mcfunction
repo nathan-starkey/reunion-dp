@@ -1,0 +1,1 @@
+give @s purple_dye{reunion.type:custom_item.ender_gel,CustomModelData:7647121,display:{Name:'{"text":"Ender Gel","italic":false}'}}

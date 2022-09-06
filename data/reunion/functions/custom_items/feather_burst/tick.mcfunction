@@ -1,0 +1,3 @@
+scoreboard players reset @a[nbt=!{Inventory:[{id:"minecraft:feather"}]}] reunion.custom_items.feather_burst_uses
+execute as @a[nbt={OnGround:1b,SelectedItem:{tag:{reunion.type:"custom_item.feather_burst"}},Inventory:[{id:"minecraft:feather"}]}] store result score @s reunion.custom_items.feather_burst_uses unless score @s reunion.clear_effect.levitation matches 1.. run data get entity @s SelectedItem.tag."reunion.feather_burst_level"
+execute as @a[scores={reunion.custom_items.use_carrot_on_a_stick=1..,reunion.custom_items.feather_burst_uses=1..}] if entity @s[nbt={SelectedItem:{tag:{reunion.type:"custom_item.feather_burst"}}}] at @s run function reunion:custom_items/feather_burst/use

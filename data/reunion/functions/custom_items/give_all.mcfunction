@@ -1,0 +1,3 @@
+function reunion:custom_items/ender_gel/give
+function reunion:custom_items/feather_burst/give
+function reunion:custom_items/splash_potion_glowing/give

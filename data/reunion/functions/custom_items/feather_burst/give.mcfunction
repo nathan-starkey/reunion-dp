@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{reunion.type:custom_item.feather_burst,reunion.feather_burst_level:1s,CustomModelData:5039407,display:{Name:'{"text":"Feather Burst","italic":false}',Lore:['{"text":"Level 1","italic":false,"color":"gray"}']}}

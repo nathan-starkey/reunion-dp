@@ -1,0 +1,26 @@
+[{
+  "function": "copy_nbt",
+  "source": {
+    "type": "storage",
+    "source": "reunion:custom_items"
+  },
+  "ops": [{
+    "source": "\"reunion.feather_burst_level\"",
+    "target": "\"reunion.feather_burst_level\"",
+    "op": "replace"
+  }]
+},{
+  "function": "set_lore",
+  "lore": [[{
+    "text": "Level ",
+    "italic": false,
+    "color": "gray"
+  },{
+    "score": {
+      "name": "feather_burst_level",
+      "objective": "reunion.temp"
+    }
+  }]],
+  "entity": "this",
+  "replace": true
+}]

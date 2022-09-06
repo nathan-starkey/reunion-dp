@@ -1,0 +1,2 @@
+execute as @e[tag=reunion.custom_block.stone_crafting_table] at @s if entity @p[distance=..6] if data block ~ ~ ~ Items[0] run function reunion:custom_crafting/stone_crafting_table
+execute as @e[tag=reunion.custom_block.gravity_scrubber] at @s if entity @p[distance=..6] if data block ~ ~ ~ Items[0] run function reunion:custom_crafting/gravity_scrubber

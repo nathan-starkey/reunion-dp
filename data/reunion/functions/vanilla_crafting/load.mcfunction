@@ -1,0 +1,2 @@
+scoreboard objectives add reunion.vanilla_crafting.craft_allay_spawn_egg minecraft.crafted:minecraft.allay_spawn_egg ["",{"text":"Reunion","color":"green"},{"text":" / Vanilla Crafting /","color":"gray"}," Craft Allay Spawn Egg"]
+tellraw @a ["",{"text":"ON","color":"green"}," - Vanilla Crafting"]

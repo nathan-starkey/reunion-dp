@@ -1,0 +1,1 @@
+item replace block ~ ~ ~ container.4 with glow_item_frame{reunion.type:custom_block.gravity_scrubber,CustomModelData:8386355,EntityTag:{Invulnerable:1,Invisible:1,Fixed:1,Silent:1,Tags:[reunion.custom_block,reunion.custom_block.gravity_scrubber],Item:{id:glow_item_frame,Count:1,tag:{CustomModelData:8386355}}},display:{Name:'{"text":"Gravity Scrubber","italic":false}'}}

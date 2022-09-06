@@ -1,0 +1,1 @@
+scoreboard players reset @a[scores={reunion.custom_items.use_carrot_on_a_stick=1..}] reunion.custom_items.use_carrot_on_a_stick

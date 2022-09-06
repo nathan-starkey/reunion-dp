@@ -1,0 +1,2 @@
+function reunion:custom_crafting/get_dropper_signature
+execute if score signature reunion.temp matches 186 run function reunion:custom_crafting/gravity_scrubber_186

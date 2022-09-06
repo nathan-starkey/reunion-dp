@@ -1,0 +1,2 @@
+function reunion:custom_blocks/give_all
+function reunion:custom_items/give_all

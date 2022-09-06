@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ dropper{Items:[{Slot:1b,id:"minecraft:glow_ink_sac"},{Slot:4b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:water"}},{Slot:7b,id:"minecraft:gunpowder"}]} unless data block ~ ~ ~ Items[1].tag."reunion.type" run function reunion:custom_crafting/stone_crafting_table_splash_potion_glowing

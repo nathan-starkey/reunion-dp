@@ -1,0 +1,1 @@
+item replace block ~ ~ ~ container.4 with glow_item_frame{reunion.type:custom_block.redstone_bench,CustomModelData:4005558,EntityTag:{Invulnerable:1,Invisible:1,Fixed:1,Silent:1,Tags:[reunion.custom_block,reunion.custom_block.redstone_bench],Item:{id:glow_item_frame,Count:1,tag:{CustomModelData:4005558}}},display:{Name:'{"text":"Redstone Bench","italic":false}'}}

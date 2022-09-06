@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Motion:[.0,.25,.0],Item:{id:glow_item_frame,Count:1,tag:{reunion.type:custom_block.altar,CustomModelData:6584248,EntityTag:{Invulnerable:1,Invisible:1,Fixed:1,Silent:1,Tags:[reunion.custom_block,reunion.custom_block.altar],Item:{id:glow_item_frame,Count:1,tag:{CustomModelData:6584248}}},display:{Name:'{"text":"Altar","italic":false}'}}}}

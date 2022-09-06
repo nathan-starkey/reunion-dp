@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Motion:[.0,.25,.0],Item:{id:glow_item_frame,Count:1,tag:{reunion.type:custom_block.jewel_bench,CustomModelData:8615393,EntityTag:{Invulnerable:1,Invisible:1,Fixed:1,Silent:1,Tags:[reunion.custom_block,reunion.custom_block.jewel_bench],Item:{id:glow_item_frame,Count:1,tag:{CustomModelData:8615393}}},display:{Name:'{"text":"Jewel Bench","italic":false}'}}}}
